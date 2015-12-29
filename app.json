@@ -1,0 +1,8 @@
+{
+  "name": "Randomer",
+  "description": "Random anonymous pairs",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
