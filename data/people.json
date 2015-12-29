@@ -1,0 +1,32 @@
+{
+  "taras": {
+    "name": "Тарас Романів",
+    "password": "xose37",
+    "booked": false,
+    "done": false
+  },
+  "irena": {
+    "name": "Ірена Романів",
+    "password": "osaq45",
+    "booked": false,
+    "done": false
+  },
+  "vitalik": {
+    "name": "Віталік Романів",
+    "password": "hasa01",
+    "booked": false,
+    "done": false
+  },
+  "kolia": {
+    "name": "Коля Ленько",
+    "password": "ilof70",
+    "booked": false,
+    "done": false
+  },
+  "zhenia": {
+    "name": "Женя Микитюк",
+    "password": "kafe49",
+    "booked": false,
+    "done": false
+  }
+}
